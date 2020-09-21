@@ -1,0 +1,1 @@
+# -WK-MyGO.pl-Server
